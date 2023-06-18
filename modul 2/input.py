@@ -9,3 +9,5 @@ panjang = int(input("panjang"))
 lebar = int (input("lebar"))
 luas = panjang * lebar
 print ("Luas persegi panjang:", luas)
+
+# halo ges
